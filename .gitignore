@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# notebook cache
+.ipynb_checkpoints/
+
+# temporary scraped MD&A data
+data/raw/
+
+# Streamlit secrets
+.streamlit/secrets.toml
